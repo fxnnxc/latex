@@ -7,7 +7,10 @@
 \begin{tcolorbox}
 ~~~~
 \end{tcolorbox}
-
+```
+Change color
+```
+\begin{tcolorbox}[colback=white!5!white,colframe=red!75!black]
 ```
 
 ## paper size
