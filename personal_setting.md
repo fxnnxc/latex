@@ -8,6 +8,7 @@
 \usepackage{caption}
 \usepackage{subcaption}
 \usepackage{listings}
+\usepackage{minted}
 
 \newtheorem{theorem}{Theorem}
 \newtheorem*{theorem*}{Theorem}
