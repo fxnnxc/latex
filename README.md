@@ -45,6 +45,17 @@
 \hl{werwe}
 ```
 
+## Code(python)
+```
+\usepackage{minted}
+\begin{minted}{python}
+import numpy as np
+    
+def incmatrix(genl1,genl2):
+    m = len(genl1)
+\end{minted}
+```
+
 ## Horizontal line
 
 ```
