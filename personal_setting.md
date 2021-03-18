@@ -1,5 +1,4 @@
 ```
-\documentclass{article}
 \usepackage[utf8]{inputenc}
 \usepackage{titlesec}
 \usepackage{amsmath,amsthm,amssymb, graphicx, multicol, array, bm}
