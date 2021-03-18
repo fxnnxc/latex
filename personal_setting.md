@@ -19,4 +19,7 @@
 \usepackage{geometry}
 \geometry{ a4paper, left=20mm, top=20mm}
 
+\def\*#1{\mathbf{#1}}
+\def\&#1{\bm{#1}}
+
 ```
