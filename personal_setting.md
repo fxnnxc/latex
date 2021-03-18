@@ -8,6 +8,7 @@
 \usepackage{subcaption}
 \usepackage{listings}
 \usepackage{minted}
+\usepackage{tcolorbox}
 
 \newtheorem{theorem}{Theorem}
 \newtheorem*{theorem*}{Theorem}
