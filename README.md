@@ -1,5 +1,10 @@
 # latex
 
+## Line
+```
+\usepackage{ulem}
+\sout{awefwef}
+```
 ## TextBox 
 
 ```
