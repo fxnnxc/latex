@@ -9,6 +9,7 @@
 \usepackage{listings}
 \usepackage{minted}
 \usepackage{tcolorbox}
+\usepackage{ulem}
 
 \newtheorem{theorem}{Theorem}
 \newtheorem*{theorem*}{Theorem}
