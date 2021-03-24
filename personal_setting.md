@@ -6,21 +6,19 @@
 \usepackage{color,soul}
 \usepackage{caption}
 \usepackage{subcaption}
-\usepackage{listings}
-\usepackage{minted}
 \usepackage{tcolorbox}
-\usepackage{ulem}
-
 \newtheorem{theorem}{Theorem}
 \newtheorem*{theorem*}{Theorem}
+\newtheorem*{remark}{Remark}
 \newtheorem*{note}{Note}
+\newtheorem*{definition}{definition}
+
+\def\*#1{\mathbf{#1}}
+\def\&#1{\bm{#1}}
 
 \usepackage[ruled,vlined]{algorithm2e}
 
 \usepackage{geometry}
 \geometry{ a4paper, left=20mm, top=20mm}
-
-\def\*#1{\mathbf{#1}}
-\def\&#1{\bm{#1}}
 
 ```
